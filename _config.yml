@@ -22,7 +22,7 @@ title: EduSecure
 email: merhaba@edusecure.net
 description: >- # this means to ignore newlines until "baseurl:"
     EduSecure, Öğrenme Yönetim Sistemlerinde oluşan gizlilik ve güvenlik problemlerinin etkisini mümkün mertebe azaltmayı ve ÖYS kullanıcılarının zayıf parola kullanımı, kişisel güvenlik farkındalığı ve bilgi eksikliği problemlerini çözmeyi amaçlayan bir tarayıcı eklentisidir. Bu websitesi, EduSecure eklentisine ek olarak bilgi güvenliği konusunda eğitsel yazılı materyaller içermektedir. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://edusecure.net" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: tahabykl/EduSecure 
