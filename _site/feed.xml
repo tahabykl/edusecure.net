@@ -1,27 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-29T16:33:25+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">EduSecure</title><subtitle>EduSecure, Öğrenme Yönetim Sistemlerinde oluşan gizlilik ve güvenlik problemlerinin etkisini mümkün mertebe azaltmayı ve ÖYS kullanıcılarının zayıf parola kullanımı, kişisel güvenlik farkındalığı ve bilgi eksikliği problemlerini çözmeyi amaçlayan bir tarayıcı eklentisidir. Bu websitesi, EduSecure eklentisine ek olarak bilgi güvenliği konusunda eğitsel yazılı materyaller içermektedir. </subtitle><entry><title type="html">Hesaplarınızda Güçlü ve Tahmin Edilemez Parolalar Kullanmanın Önemi</title><link href="http://localhost:4000/parola/guvenlik/2023/05/29/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Hesaplarınızda Güçlü ve Tahmin Edilemez Parolalar Kullanmanın Önemi" /><published>2023-05-29T16:09:25+03:00</published><updated>2023-05-29T16:09:25+03:00</updated><id>http://localhost:4000/parola/guvenlik/2023/05/29/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/parola/guvenlik/2023/05/29/welcome-to-jekyll.html"><![CDATA[<p>Merhaba ve EduSecure’a hoş geldiniz! Dijital dünyamızda parola, kişisel bilgilerinize yetkisiz erişime karşı ilk savunma hattı olarak hizmet vermektedir. Bugün, özellikle Öğrenim Yönetim Sistemlerini (LMS) kullanırken, çevrimiçi hesaplarınız için güçlü ve tahmin edilemez parolalar oluşturmanın neden kritik olduğunu tartışacağız.
-Güçlü Bir Parolanın Önemi</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/https://edusecure.net/feed.xml" rel="self" type="application/atom+xml" /><link href="/https://edusecure.net/" rel="alternate" type="text/html" /><updated>2023-05-31T19:02:32+03:00</updated><id>/https://edusecure.net/feed.xml</id><title type="html">EduSecure</title><subtitle>EduSecure, Öğrenme Yönetim Sistemlerinde oluşan gizlilik ve güvenlik problemlerinin etkisini mümkün mertebe azaltmayı ve ÖYS kullanıcılarının zayıf parola kullanımı, kişisel güvenlik farkındalığı ve bilgi eksikliği problemlerini çözmeyi amaçlayan bir tarayıcı eklentisidir. Bu websitesi, EduSecure eklentisine ek olarak bilgi güvenliği konusunda eğitsel yazılı materyaller içermektedir. </subtitle><entry><title type="html"></title><link href="/https://edusecure.net/2023/05/31/2023-05-29-social-media-privacy.html" rel="alternate" type="text/html" title="" /><published>2023-05-31T19:02:32+03:00</published><updated>2023-05-31T19:02:32+03:00</updated><id>/https://edusecure.net/2023/05/31/2023-05-29-social-media-privacy</id><content type="html" xml:base="/https://edusecure.net/2023/05/31/2023-05-29-social-media-privacy.html">&lt;p&gt;Dijital güvenlik üzerine devam eden serimizde bugün dikkatimizi neredeyse tüm internet kullanıcılarının ilgisini çeken bir konuya yöneltiyoruz: sosyal medya. Özellikle, sosyal medya hesaplarınızdaki gizlilik ayarlarını düzenli olarak gözden geçirmenin önemini ve kişisel verilerinizi korumada oynadığı rolü tartışacağız.&lt;/p&gt;
 
-<p>Çevrimiçi faaliyetlerinizde küçük bir ayrıntı gibi görünse de, güçlü ve tahmin edilemez bir parola kullanmak, çevrimiçi gizliliğinizi ve güvenliğinizi artırmanın en basit ve en etkili yollarından biridir. Parolayı dijital bir anahtar gibi düşünebilirsiniz. Kolayca kopyalanabilir veya tahmin edilebilirse, herkes çevrimiçi varlığınızın kapısını açabilir. Ancak, karmaşık ve benzersiz bir parola yetkisiz erişimi inanılmaz derecede zorlaştırır.</p>
+&lt;h3 id=&quot;sosyal-medya-gizlilik-ayarlarının-önemi&quot;&gt;Sosyal Medya Gizlilik Ayarlarının Önemi&lt;/h3&gt;
 
-<h1 id="bir-parolayı-güçlü-kılan-nedir">Bir Parolayı Güçlü Kılan Nedir?</h1>
+&lt;p&gt;Sosyal medya platformları genellikle büyük miktarda kişisel veri toplar ve işler. Bu veriler, platformların kullanıcı deneyimini iyileştirmesine yardımcı olurken (örnek: kişiselleştirilmiş reklamlar göstermek), gizlilik sorunlarını da beraberinde getirir. Önemsiz olduğunu düşündüğünüz bilgiler, zaman içinde diğer verilerle beraber incelendiğinde sizin ve alışkanlıklarınız hakkında çok şey ortaya çıkarabilir.&lt;/p&gt;
 
-<p>Güçlü bir parola harflerin (hem büyük hem de küçük harf), sayıların ve özel karakterlerin birleşiminden oluşur. En az sekiz karakter uzunluğunda olmalıdır, ancak ne kadar uzun olursa o kadar iyidir. Daha uzun bir parola, bir saldırganın hesabınıza girmek için denemesi gereken olası kombinasyonların sayısını artırır.</p>
+&lt;p&gt;Sosyal medyadaki kişisel verilerinizi kontrol altına almanın bir yolu, platformların gizlilik ayarlarıdır. Bu ayarlar hangi bilgileri paylaşacağınıza, kimlerle paylaşacağınıza ve platformun verilerinizi nasıl kullanacağına karar vermenizi sağlar. Her ne kadar birçok sosyal medya uygulaması kayıt aşamasında gösterilen rıza metinleriyle verilerinizi toplasa da hangi verilerinizin toplandığını ve işlendiğini uygulamanın ayarlarından kontrol edebilirsiniz.&lt;/p&gt;
 
-<p>Güçlü parolalar oluşturmak için aşağıdaki adımları takip edebilrsiniz:</p>
+&lt;h3 id=&quot;düzenli-i̇ncelemeler-ve-kişiselleştirilmiş-reklam-algoritmaları&quot;&gt;Düzenli İncelemeler ve Kişiselleştirilmiş Reklam Algoritmaları&lt;/h3&gt;
 
-<ol>
-  <li>
-    <p>Karakter Karışımı Kullanın: Büyük harfler, küçük harfler, sayılar ve semboller ekleyin. Bu karışım şifrenize karmaşıklık katmanları ekleyerek kırılmasını zorlaştırır.</p>
-  </li>
-  <li>
-    <p>Kişisel Bilgilerden Kaçının: Asla adınızı, doğum tarihinizi, tuttuğunuz spor takımını veya birinin hakkınızda kolayca öğrenebileceği diğer kişisel bilgileri eklemeyin.</p>
-  </li>
-  <li>
-    <p>Sözlük Kelimeleri Kullanmayın: Siber suçlular genellikle sözlükteki kelimeleri kullanarak şifreleri hızla tahmin edebilen araçlar kullanırlar. Rastgele harfleri, sayıları ve sembolleri bir araya getirmek, mantıklı olmayan bir parola oluşturacak ve tahmin edilmesini çok daha zor hale getirecektir.</p>
-  </li>
-  <li>
-    <p>Parola Kullanmayı Düşünün: Parola, geleneksel bir paroladan daha uzun olan ve onu daha güvenli hale getiren bir kelime dizisidir. Rastgele kelimelerden oluşan bir dizi veya bir cümle olabilir, sadece kolayca tahmin edilebilecek kişisel bilgiler içermediğinden emin olun.</p>
-  </li>
-</ol>
+&lt;p&gt;Platformlar politikalarını ve özelliklerini sık sık güncellediğinden, sosyal medya gizlilik ayarlarınızı düzenli olarak gözden geçirmek önemlidir. Bunu yaparak çevrimiçi kişiğiniz üzerinde kontrol sahibi olabilirsiniz.&lt;/p&gt;
 
-<p>Sonuç olarak, parolanız dijital kalkanınızdır ve gücü sizi ne kadar iyi koruyabileceğini belirler. Unutmayın, güvenlik bir ürün değildir; savunmanızı sürekli olarak değerlendirmeyi ve geliştirmeyi içeren bir süreçtir. İnternette nasıl güvende kalacağınıza dair daha fazla ipucu için EduSecure’u takip etmeye devam edin.</p>]]></content><author><name></name></author><category term="parola" /><category term="guvenlik" /><summary type="html"><![CDATA[Merhaba ve EduSecure’a hoş geldiniz! Dijital dünyamızda parola, kişisel bilgilerinize yetkisiz erişime karşı ilk savunma hattı olarak hizmet vermektedir. Bugün, özellikle Öğrenim Yönetim Sistemlerini (LMS) kullanırken, çevrimiçi hesaplarınız için güçlü ve tahmin edilemez parolalar oluşturmanın neden kritik olduğunu tartışacağız. Güçlü Bir Parolanın Önemi]]></summary></entry></feed>
+&lt;p&gt;Dikkat edilmesi gereken önemli bir husus da kişiselleştirilmiş reklam algoritmalarıdır. Bu algoritmalar, ilgi alanlarınıza ve davranışlarınıza göre size reklam göstermek için verilerinizi kullanır. Kişiselleştirilmiş reklamları kapatarak bu sosyal medya platformları tarafından işlenen veri miktarını sınırlayabilirsiniz.&lt;/p&gt;
+
+&lt;h3 id=&quot;sosyal-medya-gizlilik-ayarlarınızı-nasıl-optimize-edersiniz&quot;&gt;Sosyal Medya Gizlilik Ayarlarınızı Nasıl Optimize Edersiniz?&lt;/h3&gt;
+
+&lt;p&gt;Aşağıdaki adımları takip ederek sosyal medya platformları ile paylaştığınız bilgileri olabildiğince azaltabilirsiniz:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Profilinizdeki Bilgileri Sınırlandırın:&lt;/strong&gt; Yalnızca gerekli bilgileri paylaşın. Ne kadar az bilgi paylaşırsanız o kadar az gizlilik ihlaline maruz kalırsınız.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bağlantılarınızı Yönetin:&lt;/strong&gt; Arkadaş veya takipçi listelerinizi düzenli olarak gözden geçirin. Listelerdeki herkesle bilgi paylaşma konusunda dikkatli olmalısınız. Bazı platformlarda kötü amaçlı kullanıcılar tarafından kullanılan bot ve spam kullanıcılar açılıp verileriniz ihlal edilebilmektedir.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Kişiselleştirilmiş Reklamları Kapatın:&lt;/strong&gt; Bu ayar genellikle platformun reklam veya gizlilik ayarlarında bulunabilir.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Gönderilerinizi Kimlerin Gördüğünü Kontrol Edin:&lt;/strong&gt; Gönderilerinizin hedef kitlesini sınırlamanıza olanak tanıyan özelliklerden yararlanın.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;İki Faktörlü Kimlik Doğrulamayı Etkinleştirin:&lt;/strong&gt; Bu, hesabınıza ekstra bir güvenlik katmanı ekler ve platformdaki kötü amaçlı kullanıcılara karşı korunmanızı sağlar.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;sonuç&quot;&gt;Sonuç&lt;/h3&gt;
+
+&lt;p&gt;Sosyal medya gizlilik ayarlarınızın kontrolünü ele almak, çevrimiçi gizliliğinizi yönetmede önemli bir adımdır. Bunu, EduSecure tarafından oluşturulan güçlü, tahmin edilemez bir parola kullanmak, yazılımınızı ve cihazlarınızı güncel tutmak ve halka açık ağlarda VPN kullanmak gibi diğer güvenlik önlemleriyle beraber değerlendirmelisiniz.&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html">Hesaplarınızda Güçlü ve Tahmin Edilemez Parolalar Kullanmanın Önemi</title><link href="/https://edusecure.net/parola/guvenlik/2023/05/29/parolalar.html" rel="alternate" type="text/html" title="Hesaplarınızda Güçlü ve Tahmin Edilemez Parolalar Kullanmanın Önemi" /><published>2023-05-29T16:09:25+03:00</published><updated>2023-05-29T16:09:25+03:00</updated><id>/https://edusecure.net/parola/guvenlik/2023/05/29/parolalar</id><content type="html" xml:base="/https://edusecure.net/parola/guvenlik/2023/05/29/parolalar.html">&lt;p&gt;Dijital dünyamızda parola, kişisel bilgilerinize yetkisiz erişime karşı ilk savunma hattı olarak karşımıza çıkmaktadır. Bugün, özellikle Öğrenim Yönetim Sistemlerini (LMS) kullanırken, çevrimiçi hesaplarınız için güçlü ve tahmin edilemez parolalar oluşturmanın neden kritik olduğunu tartışacağız.
+Güçlü Bir Parolanın Önemi&lt;/p&gt;
+
+&lt;p&gt;Çevrimiçi faaliyetlerinizde küçük bir ayrıntı gibi görünse de, güçlü ve tahmin edilemez bir parola kullanmak, çevrimiçi gizliliğinizi ve güvenliğinizi artırmanın en basit ve en etkili yollarından biridir. Parolayı dijital bir anahtar gibi düşünebilirsiniz. Kolayca kopyalanabilir veya tahmin edilebilirse, herkes çevrimiçi varlığınızın kapısını açabilir. Ancak, karmaşık ve benzersiz bir parola yetkisiz erişimi inanılmaz derecede zorlaştırır.&lt;/p&gt;
+
+&lt;h1 id=&quot;bir-parolayı-güçlü-kılan-nedir&quot;&gt;Bir Parolayı Güçlü Kılan Nedir?&lt;/h1&gt;
+
+&lt;p&gt;Güçlü bir parola harflerin (hem büyük hem de küçük harf), sayıların ve özel karakterlerin birleşiminden oluşur. En az sekiz karakter uzunluğunda olmalıdır, ancak ne kadar uzun olursa o kadar iyidir. Daha uzun bir parola, bir saldırganın hesabınıza girmek için denemesi gereken olası kombinasyonların sayısını artırır.&lt;/p&gt;
+
+&lt;p&gt;Güçlü parolalar oluşturmak için aşağıdaki adımları takip edebilrsiniz:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Karakter Karışımı Kullanın: Büyük harfler, küçük harfler, sayılar ve semboller ekleyin. Bu karışım şifrenize karmaşıklık katmanları ekleyerek kırılmasını zorlaştırır.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kişisel Bilgilerden Kaçının: Asla adınızı, doğum tarihinizi, tuttuğunuz spor takımını veya birinin hakkınızda kolayca öğrenebileceği diğer kişisel bilgileri eklemeyin.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sözlük Kelimeleri Kullanmayın: Siber suçlular genellikle sözlükteki kelimeleri kullanarak şifreleri hızla tahmin edebilen araçlar kullanırlar. Rastgele harfleri, sayıları ve sembolleri bir araya getirmek, mantıklı olmayan bir parola oluşturacak ve tahmin edilmesini çok daha zor hale getirecektir.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Parola Kullanmayı Düşünün: Parola, geleneksel bir paroladan daha uzun olan ve onu daha güvenli hale getiren bir kelime dizisidir. Rastgele kelimelerden oluşan bir dizi veya bir cümle olabilir, sadece kolayca tahmin edilebilecek kişisel bilgiler içermediğinden emin olun.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Sonuç olarak, parolanız dijital kalkanınızdır ve gücü sizi ne kadar iyi koruyabileceğini belirler. Unutmayın, güvenlik bir ürün değildir; savunmanızı sürekli olarak değerlendirmeyi ve geliştirmeyi içeren bir süreçtir. İnternette nasıl güvende kalacağınıza dair daha fazla ipucu için EduSecure’u takip etmeye devam edin.&lt;/p&gt;</content><author><name></name></author><category term="parola" /><category term="guvenlik" /><summary type="html">Dijital dünyamızda parola, kişisel bilgilerinize yetkisiz erişime karşı ilk savunma hattı olarak karşımıza çıkmaktadır. Bugün, özellikle Öğrenim Yönetim Sistemlerini (LMS) kullanırken, çevrimiçi hesaplarınız için güçlü ve tahmin edilemez parolalar oluşturmanın neden kritik olduğunu tartışacağız. Güçlü Bir Parolanın Önemi</summary></entry></feed>

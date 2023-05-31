@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sosyal Medya Gizlilik Ayarları: Çevrimiçi Ayak İzinizi Kontrol Altına Alın
+title: "Sosyal Medya Gizlilik Ayarları: Çevrimiçi Ayak İzinizi Kontrol Altına Alın"
 date:   2023-05-29 16:09:25 +0300
 categories: sosyal-medya gizlilik 
 ---
