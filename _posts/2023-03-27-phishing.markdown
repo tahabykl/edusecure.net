@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "E-posta ve Mesajlarda Bilinmeyen Kaynakların Riskleri"
+date:   2023-05-29 16:09:25 +0300
+categories: sosyal-medya guvenlik
+---
+
+Çevrimiçi güvenliği tartışmaya devam ettiğimiz serimizde bugün dikkatimizi yaygın ve potansiyel olarak zararlı bir konuya yöneltiyoruz: bilinmeyen e-posta ve mesaj kaynaklarıyla ilişkili riskler.
+
+### Bilinmeyen E-posta ve Mesaj Kaynaklarının Tehlikeleri
+
+E-postalar ve anlık mesajlar günlük hayatımızın sıradan birer parçasıdır. Ancak bu yaygınlık, onları güvenliğinizi tehlikeye atmaya çalışan siber suçlular için popüler araçlar haline getirmektedir. Kimlik avı girişimleri, kötü amaçlı yazılım dağıtımı ve diğer aldatıcı uygulamalar genellikle zararsız görünen bir e-posta veya mesajla başlar.
+
+Bilinmeyen kaynaklardan gelen bağlantılara tıklamak veya ekleri indirmek çok sayıda soruna yol açabilir. Cihazınızı tehlikeye atabilecek kötü amaçlı yazılımları yanlışlıkla indirebilir veya hassas kişisel bilgilerinizi ifşa etmeniz için sizi kandırmak üzere tasarlanmış sahte web sitelerine yönlendirilebilirsiniz.
+
+### Bilinmeyen Kaynaklarla Çalışırken Alınacak Önlemler
+
+Bilinmeyen kaynaklardan gelen e-postaları veya mesajları ele alırken uymanız gereken bazı yönergeler aşağıda verilmiştir:
+
+1. **Şüpheli Bağlantılara Tıklamaktan Kaçının:** E-postalardaki veya mesajlardaki bağlantılar kötü amaçlı web sitelerine yönlendirebilir veya zararlı yazılımların indirilmesini başlatabilir. Mesaj bilinmeyen bir kaynaktan geliyorsa veya bilinen bir kişiden geliyor gibi görünse bile tıklamamak daha güvenlidir.
+    
+2. **Beklenmedik Eklere Karşı Dikkatli Olun:** Kötü amaçlı yazılımlar genellikle e-posta ekleri yoluyla dağıtılır. Bir ek beklemediğiniz ve kaynağından emin olmadığınız sürece indirmeyin.
+    
+3. **Göndereni Doğrulayın:** Bilinen bir kişiden gelmiş gibi görünen ancak şüpheli hissettiren bir e-posta veya mesaj alırsanız, mesajı gönderdiklerinden emin olmak için doğrulanmış bir iletişim yöntemi aracılığıyla doğrudan kişi veya kuruluşa ulaşın.
+    
+4. **Güvenlik Yazılımı Kullanın:** Cihazınızın olası tehditleri tespit etmeye ve etkisiz hale getirmeye yardımcı olabilecek güvenilir bir güvenlik yazılımı ile korunduğundan emin olun.
+    
+5. **Kendinizi Eğitin:** Kimlik avı ve diğer kötü niyetli iletişim girişimlerinin yaygın belirtilerini tanımlamayı öğrenin. Birçok dolandırıcılığın kötü dilbilgisi, resmi olmayan e-posta adresleri ve genel selamlar gibi belirgin işaretleri vardır.
+    
+
+### Sonuç
+
+"Üzülmektense tedbirli olmak iyidir" atasözü, bilinmeyen e-posta ve mesajlarla uğraşırken özellikle doğrudur. Dijital iletişimlerde gezinirken, özellikle de bağlantılar veya ekler içerdiklerinde dikkatli ve şüpheci olmak çok önemlidir.
+
+Güçlü, tahmin edilemez bir parola kullanmayı, iki faktörlü kimlik doğrulamayı etkinleştirmeyi ve yazılımınızı ve cihazlarınızı güncel tutmayı unutmayın; bunlar çevrimiçi güvenliğinizi artırmanın temel adımlarıdır. EduSecure bu yolculukta size yardımcı olmak için burada.
+
+Bugün bize katıldığınız için teşekkür ederiz ve tedbirli olmayı, bilgi sahibi olmayı ve güvende kalmayı unutmayın. Bir sonraki yazımıza kadar, kendinize iyi bakın.
