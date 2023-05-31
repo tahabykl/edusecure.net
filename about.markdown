@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+EduSecure, Öğrenme Yönetim Sistemlerinde oluşan gizlilik ve güvenlik problemlerinin etkisini mümkün mertebe azaltmayı ve ÖYS kullanıcılarının zayıf parola kullanımı, kişisel güvenlik farkındalığı ve bilgi eksikliği problemlerini çözmeyi amaçlayan bir tarayıcı eklentisidir. Bu websitesi, EduSecure eklentisine ek olarak bilgi güvenliği konusunda eğitsel yazılı materyaller içermektedir.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Projenin açık kaynak koduna buradan ulaşabilirsiniz:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+GitHub: [EduSecure](https://github.com/tahabykl/EduSecure)
+GitHub: [EduSecure.net](https://github.com/tahabykl/edusecure.net)
 
+---
 
-[jekyll-organization]: https://github.com/jekyll
+EduSecure is a browser plugin that aims to reduce the impact of privacy and security problems in Learning Management Systems as much as possible and to solve the problems of weak password usage, personal security awareness and lack of knowledge of LMS users. In addition to the EduSecure plugin, this website contains educational written materials on information security.
+
+The open source code of the project is available on:
+
+GitHub: [EduSecure](https://github.com/tahabykl/EduSecure)
+GitHub: [EduSecure.net](https://github.com/tahabykl/edusecure.net)
