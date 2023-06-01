@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: EduSecure Hakkında
+permalink: /hakkinda/
 ---
 ### TR:
 
@@ -9,15 +9,16 @@ EduSecure, Öğrenme Yönetim Sistemlerinde oluşan gizlilik ve güvenlik proble
 
 Projenin açık kaynak koduna buradan ulaşabilirsiniz:
 
-GitHub: [EduSecure](https://github.com/tahabykl/EduSecure)
+GitHub: [EduSecure](https://github.com/tahabykl/EduSecure) \\
 GitHub: [EduSecure.net](https://github.com/tahabykl/edusecure.net)
 
 ---
+
 ### EN:
 
 EduSecure is a browser plugin that aims to reduce the impact of privacy and security problems in Learning Management Systems as much as possible and to solve the problems of weak password usage, personal security awareness and lack of knowledge of LMS users. In addition to the EduSecure plugin, this website contains educational written materials on information security.
 
 The open source code of the project is available on:
 
-GitHub: [EduSecure](https://github.com/tahabykl/EduSecure)
+GitHub: [EduSecure](https://github.com/tahabykl/EduSecure) \\
 GitHub: [EduSecure.net](https://github.com/tahabykl/edusecure.net)
