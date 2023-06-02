@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Uçtan Uca Şifreleme"
-date:   2023-05-29 16:09:25 +0300
+date:   2023-03-29 16:09:25 +0300
 categories: sosyal-medya guvenlik
+lang: tr
 ---
 
 Bu yazıda özellikle özel konuşmalar için bu özelliği sunan mesajlaşma uygulamalarını kullanmanın öneminden bahsedeceğiz.

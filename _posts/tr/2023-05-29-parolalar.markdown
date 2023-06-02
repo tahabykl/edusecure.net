@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hesaplarınızda Güçlü ve Tahmin Edilemez Parolalar Kullanmanın Önemi"
-date:   2023-05-29 16:09:25 +0300
+date:   2023-05-12 16:09:25 +0300
 categories: parola guvenlik
 ---
 

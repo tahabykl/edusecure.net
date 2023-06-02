@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Sosyal Medya Gizlilik Ayarları: Çevrimiçi Ayak İzinizi Kontrol Altına Alın"
-date:   2023-05-29 16:09:25 +0300
-categories: sosyal-medya gizlilik 
+date:   2023-05-13 16:09:25 +0300
+categories: sosyal-medya gizlilik
+lang: tr
 ---
 
 Dijital güvenlik üzerine devam eden serimizde bugün dikkatimizi neredeyse tüm internet kullanıcılarının ilgisini çeken bir konuya yöneltiyoruz: sosyal medya. Özellikle, sosyal medya hesaplarınızdaki gizlilik ayarlarını düzenli olarak gözden geçirmenin önemini ve kişisel verilerinizi korumada oynadığı rolü tartışacağız.

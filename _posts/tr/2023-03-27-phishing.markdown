@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "E-posta ve Mesajlarda Bilinmeyen Kaynakların Riskleri"
-date:   2023-05-29 16:09:25 +0300
+date:   2023-04-29 16:09:25 +0300
 categories: sosyal-medya guvenlik
+lang: tr
 ---
 
 Çevrimiçi güvenliği tartışmaya devam ettiğimiz serimizde bugün dikkatimizi yaygın ve potansiyel olarak zararlı bir konuya yöneltiyoruz: bilinmeyen e-posta ve mesaj kaynaklarıyla ilişkili riskler.
