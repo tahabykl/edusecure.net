@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Şifre Yöneticileri: Güvenli Şifre Oluşturma ve Saklama Teknikleri"
-date:   2023-05-13 16:09:25 +0300
+date: 2023-05-13 16:09:25 +0300
 categories: sosyal-medya gizlilik
 lang: tr
 ---
 
-Dijital güvenlik üzerine devam eden serimizde bugün dikkatimizi neredeyse tüm internet kullanıcılarının ilgisini çeken bir konuya yöneltiyoruz: sosyal medya. Özellikle, sosyal medya hesaplarınızdaki gizlilik ayarlarını düzenli olarak gözden geçirmenin önemini ve kişisel verilerinizi korumada oynadığı rolü tartışacağız.
+Bugün dikkatimizi neredeyse tüm internet kullanıcılarının ilgisini çeken bir konuya yöneltiyoruz: sosyal medya. Özellikle, sosyal medya hesaplarınızdaki gizlilik ayarlarını düzenli olarak gözden geçirmenin önemini ve kişisel verilerinizi korumada oynadığı rolü tartışacağız.
 
 ### Sosyal Medya Gizlilik Ayarlarının Önemi
 
@@ -24,16 +24,11 @@ Dikkat edilmesi gereken önemli bir husus da kişiselleştirilmiş reklam algori
 
 Aşağıdaki adımları takip ederek sosyal medya platformları ile paylaştığınız bilgileri olabildiğince azaltabilirsiniz:
 
-1. **Profilinizdeki Bilgileri Sınırlandırın:** Yalnızca gerekli bilgileri paylaşın. Ne kadar az bilgi paylaşırsanız o kadar az gizlilik ihlaline maruz kalırsınız. 
-    
+1. **Profilinizdeki Bilgileri Sınırlandırın:** Yalnızca gerekli bilgileri paylaşın. Ne kadar az bilgi paylaşırsanız o kadar az gizlilik ihlaline maruz kalırsınız.
 2. **Bağlantılarınızı Yönetin:** Arkadaş veya takipçi listelerinizi düzenli olarak gözden geçirin. Listelerdeki herkesle bilgi paylaşma konusunda dikkatli olmalısınız. Bazı platformlarda kötü amaçlı kullanıcılar tarafından kullanılan bot ve spam kullanıcılar açılıp verileriniz ihlal edilebilmektedir.
-    
 3. **Kişiselleştirilmiş Reklamları Kapatın:** Bu ayar genellikle platformun reklam veya gizlilik ayarlarında bulunabilir.
-    
 4. **Gönderilerinizi Kimlerin Gördüğünü Kontrol Edin:** Gönderilerinizin hedef kitlesini sınırlamanıza olanak tanıyan özelliklerden yararlanın.
-    
 5. **İki Faktörlü Kimlik Doğrulamayı Etkinleştirin:** Bu, hesabınıza ekstra bir güvenlik katmanı ekler ve platformdaki kötü amaçlı kullanıcılara karşı korunmanızı sağlar.
-    
 
 ### Sonuç
 
