@@ -25,7 +25,7 @@ VPN'ler önemli bir güvenlik katmanı sağlarken, tüm çevrimiçi tehditler i�
 1. **Mümkünse Açık Ağlara Bağlanmaktan Kaçının:** İnternete bağlanmak için mobil verilerinizi kullanmak gibi alternatif bir yolunuz varsa, önce bunu düşünün.
 2. **VPN kullanın:** Açık bir ağa bağlanmanız gerekiyorsa, bağlantınızı güvence altına almak için her zaman bir VPN kullanın.
 3. **Aktardığınız Bilgilerin Farkında Olun:** Halka açık bir Wi-Fi ağına bağlıyken hassas bilgilere erişmekten veya bunları aktarmaktan kaçının. Buna e-posta veya bankacılık gibi hassas hesaplara giriş yapmak da dahildir.
-4. **Web sitelerinin HTTPS olduğundan emin olun:** 'S' harfi 'güvenli' anlamına gelir, yani cihazınız ile web sitesi arasında gönderilen veriler şifrelenir. Tarayıcınızın URL çubuğunda asma kilit sembolünü arayın.
+4. **Web sitelerinin HTTPS olduğundan emin olun:** 'S' harfi 'güvenli' (secure) anlamına gelir, yani cihazınız ile web sitesi arasında gönderilen veriler şifrelenir. Tarayıcınızın URL çubuğunda asma kilit sembolünü arayın.
 
 ### Sonuç
 
